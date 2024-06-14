@@ -12,3 +12,7 @@ This is an AI Chatbot application. It's a customized chatbot where each message 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
     <code><img width="50" src="public/chatgpt-icon.png" alt="Chagpt" title="mongoDB"/></code>
 </div>
+
+
+
+based on
