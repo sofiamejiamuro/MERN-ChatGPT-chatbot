@@ -9,7 +9,6 @@ export const validate = (validations: ValidationChain[]) => {
             if(!result.isEmpty()) {
                 break;
             }
-            
         }
         const errors = validationResult(req);
             if(errors.isEmpty()){
